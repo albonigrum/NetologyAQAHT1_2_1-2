@@ -6,6 +6,7 @@ branches:
   only:
     - master  # ветки git
     - AppVeyor-CI
+    - JSON-Schema
 
 build: off  # будем использовать свой скрипт сборки
 
